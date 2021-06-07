@@ -1,0 +1,17 @@
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\bin\Debug\TesteCRMALL_Murilo.exe.config
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\bin\Debug\TesteCRMALL_Murilo.exe
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\bin\Debug\TesteCRMALL_Murilo.pdb
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\bin\Debug\MySql.Data.dll
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.csprojAssemblyReference.cache
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.FormPrincipal.resources
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.FormCadastroClientes.resources
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.Properties.Resources.resources
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.csproj.GenerateResource.cache
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.csproj.CopyComplete
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.exe
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.pdb
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.FormPesquisaClientes.resources
+C:\Users\muril\source\repos\TesteCRMALL_Murilo\TesteCRMALL_Murilo\obj\Debug\TesteCRMALL_Murilo.FormConfiguracoes.resources

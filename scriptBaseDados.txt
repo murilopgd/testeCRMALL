@@ -1,0 +1,15 @@
+create database testecrmall;
+CREATE TABLE `cliente` (
+  `CLI_CODIGO` int(11) NOT NULL,
+    `CLI_DATANASCIMENTO`date DEFAULT NULL,
+     `CLI_SEXO`varchar(30) DEFAULT NULL,
+  `CLI_NOME` varchar(200) DEFAULT NULL,
+  `CLI_CEP` varchar(20) DEFAULT NULL,
+    `CLI_ENDERECO`varchar(300) DEFAULT NULL,
+      `CLI_NUMERO`varchar(30) DEFAULT NULL,
+  `CLI_COMPLEMENTO`varchar(100) DEFAULT NULL,
+    `CLI_BAIRRO`varchar(100) DEFAULT NULL,    
+    `CLI_CIDADE`varchar(100) DEFAULT NULL,
+      `CLI_ESTADO`varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`CLI_CODIGO`)
+)
