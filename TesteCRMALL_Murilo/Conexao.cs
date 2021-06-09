@@ -5,19 +5,19 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TesteCRMALL_Murilo.Properties;
 
 namespace TesteCRMALL_Murilo
 {
     public class Conexao
     {
-        private static string caminhoBanco = "localhost", usuarioBanco = "root", NomeBanco = "testecrmall", senhaBanco = "2327158";
-        private static string strcon = string.Format("server={0};User Id={1};database={2};Pwd={3};", caminhoBanco, usuarioBanco, NomeBanco, senhaBanco); //@"server=localhost;User Id=root;database=agrojetvendas;Pwd=2327158;";
+        private static Settings config = new Settings();
+        private static string strcon = string.Format("server={0};User Id={1};database={2};Pwd={3};", 
+            config.caminhoBanco, 
+            config.usuarioBanco, 
+            config.nomeBanco, 
+            config.senhaBanco); 
         private static string strconaux = "Allow Zero Datetime=True";
-
-        private static MySqlConnection conexao;
-        private static MySqlCommand com = new MySqlCommand();
-        private static MySqlTransaction transaction;
-        private static MySqlDataReader dr = null;
 
         public static MySqlCommand Com
         {
